@@ -54,15 +54,14 @@
 <section class="slider_section" style="position:relative; top: 90px; margin-bottom: 90px;">
     <ul id="main-slider" class="owl-carousel main_slider">
         <li class="main_slide">
-            <div class="img-container" style="background-image: url(/imagecache/slide/new6.jpg);"></div>
+            <div class="img-container" style="background-image: url(/imagecache/slide/slide-5.jpg);"></div>
             <div class="container">
                 <div class="display-table">
                     <div class="table-cell">
                         <div class="slider_content">
                             <h3 class="text-white">Теперь и на пр. Дзержинского 9!</h3>
                             <h1 class="text-white">
-                                Мы открываем новый филиал <br>
-                                13 июня 2020.</h1>
+                                Мы открыли новый филиал!</h1>
                             <p class="text-white">
                                 Большое помещение. Шесть барберских кресел. Ваши любимые мастера.<br>
                                 Проверьте, может вам ближе добираться сюда – <strong>пр. Дзержинского 9</strong>.</p>
@@ -104,10 +103,10 @@
                         <div class="slider_content">
                             <h3 class="text-white">Наши клиенты весьма довольны.</h3>
                             <h1 class="text-white">
-                                У Нас 2251 Отзывов <br>
-                                Из Них 2160 с Оценкой "Отлично".</h1>
+                                У Нас 2456 Отзывов <br>
+                                Из Них 2365 с Оценкой "Отлично".</h1>
                             <p class="text-white">
-                                Данные на 26 января 2020. Сейчас, когда вы это читаете, положительных отзывов еще больше! <br>
+                                Данные на 1 июня 2020. Сейчас, когда вы это читаете, положительных отзывов еще больше! <br>
                             </p>
                             <div class="btn_group">
                                 <a href="#testimonial" class="default_btn">Отзывы</a>
@@ -157,47 +156,47 @@
         </div>
 
         <ul class="portfolio_items">
-            <li class="col-sm-6 col-xs-6 single_item ">
+            <li class="col-sm-6 col-xs-6 single_item">
                 <figure class="portfolio_item">
-                    <img src="/imagecache/gallery-hor/new7.jpg" alt="Portfolio Item">
+                    <img src="/imagecache/gallery-hor/gallery-1.jpg" alt="Portfolio Item">
                     <figcaption class="overlay">
-                        <a href="/imagecache/gallery-full/new7.jpg" class="img_popup"></a>
+                        <a href="/images/gallery-1.jpg" class="img_popup"></a>
                     </figcaption>
                 </figure>
             </li>
-            <li class="col-sm-3 col-xs-6 single_item  ">
+            <li class="col-sm-3 col-xs-6 single_item">
                 <figure class="portfolio_item">
-                    <img src="/imagecache/gallery-vert/new8.jpg" alt="Portfolio Item">
+                    <img src="/imagecache/gallery-vert/gallery-2.jpg" alt="Portfolio Item">
                     <figcaption class="overlay">
-                        <a href="/imagecache/gallery-full/new8.jpg" class="img_popup"></a>
+                        <a href="/images/gallery-2.jpg" class="img_popup"></a>
                     </figcaption>
                 </figure>
             </li>
-            <li class="col-sm-3 col-xs-6 single_item  ">
+            <li class="col-sm-3 col-xs-6 single_item">
                 <figure class="portfolio_item">
-                    <img src="/imagecache/gallery-vert/new3.jpg" alt="Portfolio Item">
+                    <img src="/imagecache/gallery-vert/gallery-3.jpg" alt="Portfolio Item">
                     <figcaption class="overlay">
-                        <a href="/imagecache/gallery-full/new3.jpg" class="img_popup"></a>
+                        <a href="/images/gallery-3.jpg" class="img_popup"></a>
                     </figcaption>
                 </figure>
             </li>
-            <li class="col-sm-3 col-xs-6 single_item  ">
+            <li class="col-sm-3 col-xs-6 single_item">
                 <figure class="portfolio_item">
-                    <img src="/imagecache/gallery-vert/new6.jpg" alt="Portfolio Item">
+                    <img src="/imagecache/gallery-vert/gallery-4.jpg" alt="Portfolio Item">
                     <figcaption class="overlay">
-                        <a href="/imagecache/gallery-full/new6.jpg" class="img_popup"></a>
+                        <a href="/images/gallery-4.jpg" class="img_popup"></a>
                     </figcaption>
                 </figure>
             </li>
             <li class="col-sm-3 col-xs-6 single_item ">
                 <figure class="portfolio_item">
-                    <img src="/imagecache/gallery-vert/new5.jpg" alt="Portfolio Item">
+                    <img src="/imagecache/gallery-vert/gallery-0.jpg" alt="Portfolio Item">
                     <figcaption class="overlay">
-                        <a href="/imagecache/gallery-full/new5.jpg" class="img_popup"></a>
+                        <a href="/images/gallery-0.jpg" class="img_popup"></a>
                     </figcaption>
                 </figure>
             </li>
-            <li class="col-sm-6 col-xs-6 single_item  ">
+            <li class="col-sm-6 col-xs-6 single_item">
                 <figure class="portfolio_item">
                     <img src="/imagecache/gallery-hor/new8.png" alt="Portfolio Item">
                     <figcaption class="overlay">
@@ -367,7 +366,6 @@
         </ul>
 
         <ul class="team_members">
-            <li class="col-md-2 col-xs-0"></li>
             <li class="col-md-4 col-xs-6">
                 <div class="team_member">
                     <img src="/images/team-badya.jpg" alt="Дмитрий Бадыгин">
@@ -390,6 +388,34 @@
                 <div class="booking">
                     <a href="#" data-url="https://w100412.yclients.com/?o=m382623" class="default_btn ms_booking">Запись на Е.Полоцкой 5</a>
                     <a href="#" data-url="https://w360661.yclients.com/?o=m1009629" class="default_btn ms_booking">Запись пр. Дзержинского 9</a>
+                </div>
+            </li>
+            <li class="col-md-4 col-xs-6">
+                <div class="team_member">
+                    <img src="/images/team-sinoshin.jpg" alt="Вадим Синошин">
+                    <div class="overlay">
+                        <h3>Вадим Синошин</h3>
+                    </div>
+                </div>
+                <div class="booking">
+                    <a href="#" data-url="https://w100412.yclients.com/?o=m961824" class="default_btn ms_booking">Запись на Е.Полоцкой 5</a>
+                    <a href="#" data-url="https://w360661.yclients.com/?o=m1009658" class="default_btn ms_booking">Запись пр. Дзержинского 9</a>
+                </div>
+            </li>
+        </ul>
+
+        <ul class="team_members">
+            <li class="col-md-4 col-xs-6"></li>
+            <li class="col-md-4 col-xs-6">
+                <div class="team_member">
+                    <img src="/images/team-no-money.jpg" alt="Вадим Безденежных">
+                    <div class="overlay">
+                        <h3>Вадим Безденежных</h3>
+                    </div>
+                </div>
+                <div class="booking">
+                    <a href="#" data-url="https://w100412.yclients.com/?o=m961777" class="default_btn ms_booking">Запись на Е.Полоцкой 5</a>
+                    <a href="#" data-url="https://w360661.yclients.com/?o=m1009635" class="default_btn ms_booking">Запись пр. Дзержинского 9</a>
                 </div>
             </li>
         </ul>
