@@ -2,7 +2,9 @@
 <html lang="">
 <head>
     <meta charset="utf-8" />
-    <title>Büro номер 1 | Büro 20/16</title>
+    <title>Барбершоп Büro номер 1 | Büro 20/16</title>
+    <meta name="description"
+          content="Барбершоп Бюро №1 - это недорогой барбершоп в Минске. У нас вы можете подстричь бороду, усы или заказать мужскую стрижку по демократичным ценам">
 
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -10,11 +12,19 @@
     <link rel="icon" type="image/png" href="/images/favicon.png" />
     <link rel="canonical" href="https://buroone.by" />
 
-    <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
-                new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
-            j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
-            'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
-        })(window,document,'script','dataLayer','GTM-WHPL49Z');</script>
+    <script>(function (w, d, s, l, i) {
+            w[l] = w[l] || [];
+            w[l].push({
+                'gtm.start':
+                    new Date().getTime(), event: 'gtm.js'
+            });
+            var f = d.getElementsByTagName(s)[0],
+                j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : '';
+            j.async = true;
+            j.src =
+                'https://www.googletagmanager.com/gtm.js?id=' + i + dl;
+            f.parentNode.insertBefore(j, f);
+        })(window, document, 'script', 'dataLayer', 'GTM-WHPL49Z');</script>
 
     <link href="/css/elegant-font-icons.css" type="text/css" rel="stylesheet" />
     <link href="/css/elegant-line-icons.css" type="text/css" rel="stylesheet" />
@@ -24,14 +34,17 @@
     <link href="/css/venobox/venobox.css" type="text/css" rel="stylesheet" />
     <link href="/css/owl.carousel.css" type="text/css" rel="stylesheet" />
     <link href="/css/slicknav.min.css" type="text/css" rel="stylesheet" />
-    <link href="/css/main.css" type="text/css" rel="stylesheet" />
+    <link href="/css/main2.css" type="text/css" rel="stylesheet" />
     <link href="/css/responsive.css" type="text/css" rel="stylesheet" />
 
     <script src="/js/vendor/modernizr-2.8.3-respond-1.4.2.min.js"></script>
+
 </head>
 
 <body id="top" class="">
-<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-WHPL49Z" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<noscript>
+    <iframe src="https://www.googletagmanager.com/ns.html?id=GTM-WHPL49Z" height="0" width="0" style="display:none;visibility:hidden"></iframe>
+</noscript>
 
 <header id="header" class="header_section">
     <nav class="navbar">
@@ -49,19 +62,17 @@
     </nav>
 </header>
 
-
-
 <section class="slider_section" style="position:relative; top: 90px; margin-bottom: 90px;">
     <ul id="main-slider" class="owl-carousel main_slider">
         <li class="main_slide">
-            <div class="img-container" style="background-image: url(/imagecache/slide/slide-5.jpg);"></div>
+            <div class="img-container" style="background-image: url(/imagecache/slide/slide-6.jpg);"></div>
             <div class="container">
                 <div class="display-table">
                     <div class="table-cell">
                         <div class="slider_content">
-                            <h3 class="text-white">Теперь и на пр. Дзержинского 9!</h3>
-                            <h1 class="text-white">
-                                Мы открыли новый филиал!</h1>
+                            <span class="h3 text-white">Теперь и на пр. Дзержинского 9!</span>
+                            <span class="h1 text-white">
+                                Мы открыли новый филиал!</span>
                             <p class="text-white">
                                 Большое помещение. Шесть барберских кресел. Ваши любимые мастера.<br>
                                 Проверьте, может вам ближе добираться сюда – <strong>пр. Дзержинского 9</strong>.</p>
@@ -79,8 +90,8 @@
                 <div class="display-table">
                     <div class="table-cell">
                         <div class="slider_content">
-                            <h3 class="text-white">Добро Пожаловать в Büro 2016</h3>
-                            <h1 class="text-white">
+                            <span class="h3 text-white">Добро Пожаловать в Büro 2016</span>
+                            <h1 class="h1 text-white">
                                 Здесь Хорошо Стригут <br>
                                 Бреют, Укладывают, Красят</h1>
                             <p class="text-white">
@@ -101,10 +112,10 @@
                 <div class="display-table">
                     <div class="table-cell">
                         <div class="slider_content">
-                            <h3 class="text-white">Наши клиенты весьма довольны.</h3>
-                            <h1 class="text-white">
+                            <span class="h3 text-white">Наши клиенты весьма довольны.</span>
+                            <span class="h1 text-white">
                                 У Нас 2456 Отзывов <br>
-                                Из Них 2365 с Оценкой "Отлично".</h1>
+                                Из Них 2365 с Оценкой "Отлично".</span>
                             <p class="text-white">
                                 Данные на 1 июня 2020. Сейчас, когда вы это читаете, положительных отзывов еще больше! <br>
                             </p>
@@ -123,10 +134,10 @@
                 <div class="display-table">
                     <div class="table-cell">
                         <div class="slider_content">
-                            <h3 class="text-white">А все потому что у нас работают блестящие мастера.</h3>
-                            <h1 class="text-white">
+                            <span class="h3 text-white">А все потому что у нас работают блестящие мастера.</span>
+                            <span class="h1 text-white">
                                 Наши мастера лучшие <br>
-                                Потому что стараются.</h1>
+                                Потому что стараются.</span>
                             <p class="text-white">
                                 Парикмахерская не может быть лучше, чем мастера, что в ней работают. <br>
                                 Поэтому у нас работают только те, кто каждый день растет и учится.</p>
@@ -142,13 +153,14 @@
     </ul>
 </section>
 
-<section id="gallery" class="gallery_section bg-grey bd-bottom padding" >
+<section id="gallery" class="gallery_section bg-grey bd-bottom padding">
     <div class="container">
         <div class="section_heading align-center mb-40">
-            <h2 class="mb-15">Ура! Мы открываем новый филиал!</h2>
-            <p>Уже с <strong>13 июня</strong> вы cможете воспользоваться нашими услугами еще и по новому адресу – <strong>пр. Дзержинского 9</strong>
-                </p>
-            <p>К вашим услугам большое комфортное помещение, шесть новых кресел, старые и новые мастера и, конечно же, наши неизменно высокие стандарты качества по доступной
+            <h2 class="mb-15">Ура! Мы открыли новый филиал!</h2>
+            <p>Теперь вы можете пользоваться нашими услугами еще и по новому адресу – <strong>пр. Дзержинского 9</strong>
+            </p>
+            <p>К вашим услугам большое комфортное помещение, шесть новых кресел, старые и новые мастера и, конечно же, наши неизменно высокие стандарты качества по
+                доступной
                 цене!</p>
             <p>
                 <a href="#" data-url="https://w361286.yclients.com/" class="default_btn ms_booking">Записаться</a>
@@ -212,7 +224,7 @@
     <div class="container">
         <div class="col-sm-6">
             <div class="about_content align-center">
-                <h3 class="mb-15">Приветствуем!</h3>
+                <span class="h3 mb-15">Приветствуем!</span>
                 <h2 class="mb-15">В Бюро 20/16</h2>
                 <img class="mb-20 svg-img" src="/images/logo.svg" alt="logo">
                 <p>
@@ -405,7 +417,6 @@
         </ul>
 
         <ul class="team_members">
-            <li class="col-md-4 col-xs-6"></li>
             <li class="col-md-4 col-xs-6">
                 <div class="team_member">
                     <img src="/images/team-no-money.jpg" alt="Вадим Безденежных">
@@ -416,6 +427,29 @@
                 <div class="booking">
                     <a href="#" data-url="https://w100412.yclients.com/?o=m961777" class="default_btn ms_booking">Запись на Е.Полоцкой 5</a>
                     <a href="#" data-url="https://w360661.yclients.com/?o=m1009635" class="default_btn ms_booking">Запись пр. Дзержинского 9</a>
+                </div>
+            </li>
+            <li class="col-md-4 col-xs-6">
+                <div class="team_member">
+                    <img src="/images/team-timoshin.jpg" alt="Александр Тимошек">
+                    <div class="overlay">
+                        <h3>Александр Тимошек</h3>
+                    </div>
+                </div>
+                <div class="booking">
+                    <a href="#" data-url="https://w100412.yclients.com/?o=m1032024" class="default_btn ms_booking">Запись на Е.Полоцкой 5</a>
+                    <a href="#" data-url="https://w360661.yclients.com/?o=m1009716" class="default_btn ms_booking">Запись пр. Дзержинского 9</a>
+                </div>
+            </li>
+            <li class="col-md-4 col-xs-6">
+                <div class="team_member">
+                    <img src="/images/team-rogatko.jpg" alt="Николай Рогатко">
+                    <div class="overlay">
+                        <h3>Николай Рогатко</h3>
+                    </div>
+                </div>
+                <div class="booking">
+                    <a href="#" data-url="https://w360661.yclients.com/?o=m1094134" class="default_btn ms_booking">Запись пр. Дзержинского 9</a>
                 </div>
             </li>
         </ul>
@@ -463,12 +497,12 @@
                     <li>
                         <h4>Стрижка</h4>
                         <p>Любая стрижка на ваш вкус: короткая или длинная, классическая или современная.</p>
-                        <span class="price">25</span>
+                        <span class="price">30</span>
                     </li>
                     <li>
                         <h4>Детская стрижка</h4>
                         <p>Та же стрижка, но только для детей от 6 до 12 лет.</p>
-                        <span class="price">15</span>
+                        <span class="price">20</span>
                     </li>
                 </ul>
             </div>
@@ -485,7 +519,7 @@
                     <li>
                         <h4>Коррекция бороды</h4>
                         <p>Подровнять, убрать лишнее, облагородить внешний вид.</p>
-                        <span class="price">20</span>
+                        <span class="price">25</span>
                     </li>
                 </ul>
             </div>
@@ -497,12 +531,12 @@
                     <li>
                         <h4>Комплекс "Стрижка + Коррекция"</h4>
                         <p>И волосы привести в порядок и бороду. Вместе дешевле!</p>
-                        <span class="price">40</span>
+                        <span class="price">50</span>
                     </li>
                     <li>
                         <h4>Тонировка седины или бороды</h4>
                         <p>Если хочется побыть жгучим брюнетом. Ну или наоборот.</p>
-                        <span class="price">20</span>
+                        <span class="price">25</span>
                     </li>
                     <li>
                         <h4>Укладка</h4>
@@ -512,7 +546,7 @@
                     <li>
                         <h4>Депиляция волос на лице</h4>
                         <p>Удаление волос из носов и ушей разогретым воском.</p>
-                        <span class="price">5</span>
+                        <span class="price">8</span>
                     </li>
                 </ul>
             </div>
@@ -521,8 +555,7 @@
         <div class="align-center col-sm-12">
             <p>
                 Мытье головы включено в стоимость стрижки.<br>
-                К любой стрижке укладка бесплатно!<br>
-                Удаление волос воском включено в стоимость комплекса, но выполняется по желанию.
+                К любой стрижке укладка бесплатно!
             </p>
         </div>
     </div>
@@ -575,7 +608,6 @@
                 <ul>
                     <li>При стоимости до 50р. скидка 10%</li>
                     <li>При стоимости выше 50р. скидка 20%</li>
-                    <li>При стоимости выше 50р. срок годности не ограничен</li>
                 </ul>
             </div>
         </div>
@@ -674,11 +706,11 @@
 
 <script>
     var yWidgetSettings = {
-        buttonColor : '#1c84c6',
-        buttonPosition : 'bottom right',
-        buttonAutoShow : true,
-        buttonText : 'Онлайн запись',
-        formPosition : 'right'
+        buttonColor: '#1c84c6',
+        buttonPosition: 'bottom right',
+        buttonAutoShow: true,
+        buttonText: 'Онлайн запись',
+        formPosition: 'right'
     };
 </script>
 <script src="/js/main.js"></script>
