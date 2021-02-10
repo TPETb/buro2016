@@ -341,18 +341,6 @@
         <ul class="team_members">
             <li class="col-md-4 col-xs-6">
                 <div class="team_member">
-                    <img src="/images/team-rozhkins.jpg" alt="Алексей Рожкинс">
-                    <div class="overlay">
-                        <h3>Алексей Рожкинс</h3>
-                    </div>
-                </div>
-                <div class="booking">
-                    <a href="#" data-url="https://w100412.yclients.com/?o=m259161" class="default_btn ms_booking">Запись на Е.Полоцкой 5</a>
-                    <a href="#" data-url="https://w360661.yclients.com/?o=m1009627" class="default_btn ms_booking">Запись пр. Дзержинского 9</a>
-                </div>
-            </li>
-            <li class="col-md-4 col-xs-6">
-                <div class="team_member">
                     <img src="/images/team-hvoynicky.jpg" alt="Роберт Хвойницкий">
                     <div class="overlay">
                         <h3>Роберт Хвойницкий</h3>
@@ -360,7 +348,6 @@
                 </div>
                 <div class="booking">
                     <a href="#" data-url="https://w100412.yclients.com/?o=m259178" class="default_btn ms_booking">Запись на Е.Полоцкой 5</a>
-                    <a href="#" data-url="https://w360661.yclients.com/?o=m1009628" class="default_btn ms_booking">Запись пр. Дзержинского 9</a>
                 </div>
             </li>
             <li class="col-md-4 col-xs-6">
@@ -372,12 +359,8 @@
                 </div>
                 <div class="booking">
                     <a href="#" data-url="https://w100412.yclients.com/?o=m495988" class="default_btn ms_booking">Запись на Е.Полоцкой 5</a>
-                    <a href="#" data-url="https://w360661.yclients.com/?o=m1009631" class="default_btn ms_booking">Запись пр. Дзержинского 9</a>
                 </div>
             </li>
-        </ul>
-
-        <ul class="team_members">
             <li class="col-md-4 col-xs-6">
                 <div class="team_member">
                     <img src="/images/team-badya.jpg" alt="Дмитрий Бадыгин">
@@ -387,9 +370,11 @@
                 </div>
                 <div class="booking">
                     <a href="#" data-url="https://w100412.yclients.com/?o=m528752" class="default_btn ms_booking">Запись на Е.Полоцкой 5</a>
-                    <a href="#" data-url="https://w360661.yclients.com/?o=m1009634" class="default_btn ms_booking">Запись пр. Дзержинского 9</a>
                 </div>
             </li>
+        </ul>
+
+        <ul class="team_members" style="clear:both;">
             <li class="col-md-4 col-xs-6">
                 <div class="team_member">
                     <img src="/images/team-savich.jpg" alt="Руслан Савич">
@@ -399,7 +384,6 @@
                 </div>
                 <div class="booking">
                     <a href="#" data-url="https://w100412.yclients.com/?o=m382623" class="default_btn ms_booking">Запись на Е.Полоцкой 5</a>
-                    <a href="#" data-url="https://w360661.yclients.com/?o=m1009629" class="default_btn ms_booking">Запись пр. Дзержинского 9</a>
                 </div>
             </li>
             <li class="col-md-4 col-xs-6">
@@ -410,13 +394,9 @@
                     </div>
                 </div>
                 <div class="booking">
-                    <a href="#" data-url="https://w100412.yclients.com/?o=m961824" class="default_btn ms_booking">Запись на Е.Полоцкой 5</a>
                     <a href="#" data-url="https://w360661.yclients.com/?o=m1009658" class="default_btn ms_booking">Запись пр. Дзержинского 9</a>
                 </div>
             </li>
-        </ul>
-
-        <ul class="team_members">
             <li class="col-md-4 col-xs-6">
                 <div class="team_member">
                     <img src="/images/team-no-money.jpg" alt="Вадим Безденежных">
@@ -425,10 +405,12 @@
                     </div>
                 </div>
                 <div class="booking">
-                    <a href="#" data-url="https://w100412.yclients.com/?o=m961777" class="default_btn ms_booking">Запись на Е.Полоцкой 5</a>
                     <a href="#" data-url="https://w360661.yclients.com/?o=m1009635" class="default_btn ms_booking">Запись пр. Дзержинского 9</a>
                 </div>
             </li>
+        </ul>
+
+        <ul class="team_members">
             <li class="col-md-4 col-xs-6">
                 <div class="team_member">
                     <img src="/images/team-timoshin.jpg" alt="Александр Тимошек">
@@ -437,7 +419,6 @@
                     </div>
                 </div>
                 <div class="booking">
-                    <a href="#" data-url="https://w100412.yclients.com/?o=m1032024" class="default_btn ms_booking">Запись на Е.Полоцкой 5</a>
                     <a href="#" data-url="https://w360661.yclients.com/?o=m1009716" class="default_btn ms_booking">Запись пр. Дзержинского 9</a>
                 </div>
             </li>
@@ -451,6 +432,47 @@
                 <div class="booking">
                     <a href="#" data-url="https://w360661.yclients.com/?o=m1094134" class="default_btn ms_booking">Запись пр. Дзержинского 9</a>
                 </div>
+            </li>
+            <li class="col-md-4 col-xs-6">
+                <div class="team_member">
+                    <img src="/images/team-verenich.jpg" alt="Андрей Веренич">
+                    <div class="overlay">
+                        <h3>Андрей Веренич</h3>
+                    </div>
+                </div>
+                <div class="booking">
+                    <a href="#" data-url="https://w360661.yclients.com/?o=m1120625" class="default_btn ms_booking">Запись пр. Дзержинского 9</a>
+                </div>
+            </li>
+        </ul>
+
+        <ul class="team_members">
+            <li class="col-md-2 col-xs-6">
+            </li>
+            <li class="col-md-4 col-xs-6">
+                <div class="team_member">
+                    <img src="/images/team-rakov.jpg" alt="Алексей Раков">
+                    <div class="overlay">
+                        <h3>Алексей Раков</h3>
+                    </div>
+                </div>
+                <div class="booking">
+                    <a href="#" data-url="https://w360661.yclients.com/?o=m1175381" class="default_btn ms_booking">Запись пр. Дзержинского 9</a>
+                </div>
+            </li>
+            <li class="col-md-4 col-xs-6">
+                <div class="team_member">
+                    <img src="/images/team-rozhkins.jpg" alt="Алексей Рожкинс">
+                    <div class="overlay">
+                        <h3>Алексей Рожкинс</h3>
+                    </div>
+                </div>
+                <div class="booking">
+                    <a href="#" data-url="https://w100412.yclients.com/?o=m259161" class="default_btn ms_booking">Запись на Е.Полоцкой 5</a>
+                    <a href="#" data-url="https://w360661.yclients.com/?o=m1009627" class="default_btn ms_booking">Запись пр. Дзержинского 9</a>
+                </div>
+            </li>
+            <li class="col-md-2 col-xs-6">
             </li>
         </ul>
     </div>
@@ -606,8 +628,8 @@
             <div class="service_content align-center">
                 <h3>Условия и цены</h3>
                 <ul>
-                    <li>При стоимости до 50р. скидка 10%</li>
-                    <li>При стоимости выше 50р. скидка 20%</li>
+                    <li>При стоимости до 80р. скидка 10%</li>
+                    <li>При стоимости выше 80р. скидка 20%</li>
                 </ul>
             </div>
         </div>
@@ -621,11 +643,8 @@
         </div>
 
         <div class="instagram-container">
-            <!-- LightWidget WIDGET -->
-            <script src="https://lightwidget.com/widgets/lightwidget.js"></script>
-            <iframe src="https://lightwidget.com/widgets/46fe4545464750379c7922fcb1147b75.html" scrolling="no"
-                    allowtransparency="true" class="lightwidget-widget"
-                    style="width: 100%; border: 0; overflow: hidden;"></iframe>
+            <!-- LightWidget WIDGET --><script src="https://cdn.lightwidget.com/widgets/lightwidget.js"></script><iframe src="https://cdn.lightwidget.com/widgets/cd495124bfce56f798c448b1702611de.html" scrolling="no" allowtransparency="true" class="lightwidget-widget" style="width:100%;border:0;overflow:hidden;"></iframe>
+
         </div>
     </div>
 </section>
