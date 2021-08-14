@@ -114,10 +114,10 @@
                         <div class="slider_content">
                             <span class="h3 text-white">Наши клиенты весьма довольны.</span>
                             <span class="h1 text-white">
-                                У Нас 2456 Отзывов <br>
-                                Из Них 2365 с Оценкой "Отлично".</span>
+                                У нас <strong>4435</strong> отзывов <br>
+                                Средняя оценка - <strong>4.85</strong></span>
                             <p class="text-white">
-                                Данные на 1 июня 2020. Сейчас, когда вы это читаете, положительных отзывов еще больше! <br>
+                                Данные на 24 июля 2021. Сейчас, когда вы это читаете, положительных отзывов еще больше! <br>
                             </p>
                             <div class="btn_group">
                                 <a href="#testimonial" class="default_btn">Отзывы</a>
@@ -341,24 +341,25 @@
         <ul class="team_members">
             <li class="col-md-4 col-xs-6">
                 <div class="team_member">
-                    <img src="/images/team-hvoynicky.jpg" alt="Роберт Хвойницкий">
+                    <img src="/images/team-timoshin.jpg" alt="Александр Тимошек">
                     <div class="overlay">
-                        <h3>Роберт Хвойницкий</h3>
+                        <h3>Александр Тимошек</h3>
                     </div>
                 </div>
                 <div class="booking">
-                    <a href="#" data-url="https://w100412.yclients.com/?o=m259178" class="default_btn ms_booking">Запись на Е.Полоцкой 5</a>
+                    <a href="#" data-url="https://w360661.yclients.com/?o=m1009716" class="default_btn ms_booking">Запись пр. Дзержинского 9</a>
                 </div>
             </li>
             <li class="col-md-4 col-xs-6">
                 <div class="team_member">
-                    <img src="/images/team-zhurov.jpg" alt="Артур Журов">
+                    <img src="/images/team-rogatko.jpg" alt="Николай Рогатко">
                     <div class="overlay">
-                        <h3>Артур Журов</h3>
+                        <h3>Николай Рогатко</h3>
                     </div>
                 </div>
                 <div class="booking">
-                    <a href="#" data-url="https://w100412.yclients.com/?o=m495988" class="default_btn ms_booking">Запись на Е.Полоцкой 5</a>
+                    <a href="#" data-url="https://w100412.yclients.com/?o=m1413990" class="default_btn ms_booking">Запись на Е.Полоцкой 5</a>
+                    <a href="#" data-url="https://w360661.yclients.com/?o=m1094134" class="default_btn ms_booking">Запись пр. Дзержинского 9</a>
                 </div>
             </li>
             <li class="col-md-4 col-xs-6">
@@ -375,17 +376,6 @@
         </ul>
 
         <ul class="team_members" style="clear:both;">
-            <li class="col-md-4 col-xs-6">
-                <div class="team_member">
-                    <img src="/images/team-savich.jpg" alt="Руслан Савич">
-                    <div class="overlay">
-                        <h3>Руслан Савич</h3>
-                    </div>
-                </div>
-                <div class="booking">
-                    <a href="#" data-url="https://w100412.yclients.com/?o=m382623" class="default_btn ms_booking">Запись на Е.Полоцкой 5</a>
-                </div>
-            </li>
             <li class="col-md-4 col-xs-6">
                 <div class="team_member">
                     <img src="/images/team-sinoshin.jpg" alt="Вадим Синошин">
@@ -408,31 +398,6 @@
                     <a href="#" data-url="https://w360661.yclients.com/?o=m1009635" class="default_btn ms_booking">Запись пр. Дзержинского 9</a>
                 </div>
             </li>
-        </ul>
-
-        <ul class="team_members">
-            <li class="col-md-4 col-xs-6">
-                <div class="team_member">
-                    <img src="/images/team-timoshin.jpg" alt="Александр Тимошек">
-                    <div class="overlay">
-                        <h3>Александр Тимошек</h3>
-                    </div>
-                </div>
-                <div class="booking">
-                    <a href="#" data-url="https://w360661.yclients.com/?o=m1009716" class="default_btn ms_booking">Запись пр. Дзержинского 9</a>
-                </div>
-            </li>
-            <li class="col-md-4 col-xs-6">
-                <div class="team_member">
-                    <img src="/images/team-rogatko.jpg" alt="Николай Рогатко">
-                    <div class="overlay">
-                        <h3>Николай Рогатко</h3>
-                    </div>
-                </div>
-                <div class="booking">
-                    <a href="#" data-url="https://w360661.yclients.com/?o=m1094134" class="default_btn ms_booking">Запись пр. Дзержинского 9</a>
-                </div>
-            </li>
             <li class="col-md-4 col-xs-6">
                 <div class="team_member">
                     <img src="/images/team-verenich.jpg" alt="Андрей Веренич">
@@ -447,18 +412,43 @@
         </ul>
 
         <ul class="team_members">
-            <li class="col-md-2 col-xs-6">
-            </li>
             <li class="col-md-4 col-xs-6">
                 <div class="team_member">
-                    <img src="/images/team-rakov.jpg" alt="Алексей Раков">
+                    <img src="/images/team-savich.jpg" alt="Руслан Савич">
                     <div class="overlay">
-                        <h3>Алексей Раков</h3>
+                        <h3>Руслан Савич</h3>
                     </div>
                 </div>
                 <div class="booking">
-                    <a href="#" data-url="https://w360661.yclients.com/?o=m1175381" class="default_btn ms_booking">Запись пр. Дзержинского 9</a>
+                    <a href="#" data-url="https://w100412.yclients.com/?o=m382623" class="default_btn ms_booking">Запись на Е.Полоцкой 5</a>
                 </div>
+            </li>
+            <li class="col-md-4 col-xs-6">
+                <div class="team_member">
+                    <img src="/images/team-hvoynicky.jpg" alt="Роберт Хвойницкий">
+                    <div class="overlay">
+                        <h3>Роберт Хвойницкий</h3>
+                    </div>
+                </div>
+                <div class="booking">
+                    <a href="#" data-url="https://w100412.yclients.com/?o=m259178" class="default_btn ms_booking">Запись на Е.Полоцкой 5</a>
+                </div>
+            </li>
+            <li class="col-md-4 col-xs-6">
+                <div class="team_member">
+                    <img src="/images/team-zhurov.jpg" alt="Артур Журов">
+                    <div class="overlay">
+                        <h3>Артур Журов</h3>
+                    </div>
+                </div>
+                <div class="booking">
+                    <a href="#" data-url="https://w100412.yclients.com/?o=m495988" class="default_btn ms_booking">Запись на Е.Полоцкой 5</a>
+                </div>
+            </li>
+        </ul>
+
+        <ul class="team_members">
+            <li class="col-md-4 col-xs-6">
             </li>
             <li class="col-md-4 col-xs-6">
                 <div class="team_member">
@@ -468,11 +458,10 @@
                     </div>
                 </div>
                 <div class="booking">
-                    <a href="#" data-url="https://w100412.yclients.com/?o=m259161" class="default_btn ms_booking">Запись на Е.Полоцкой 5</a>
                     <a href="#" data-url="https://w360661.yclients.com/?o=m1009627" class="default_btn ms_booking">Запись пр. Дзержинского 9</a>
                 </div>
             </li>
-            <li class="col-md-2 col-xs-6">
+            <li class="col-md-4 col-xs-6">
             </li>
         </ul>
     </div>
@@ -517,14 +506,29 @@
                 <h3>Стрижки</h3>
                 <ul class="price_list">
                     <li>
-                        <h4>Стрижка</h4>
-                        <p>Любая стрижка на ваш вкус: короткая или длинная, классическая или современная.</p>
+                        <h4>Мужская стрижка</h4>
+                        <p>Современные модели мужских стрижек для коротких волос и волос средней длины (до 10 см). Виски и затылок - под машинку, верх  - под машинку или ножницами.</p>
                         <span class="price">30</span>
                     </li>
                     <li>
+                        <h4>Удлиненная мужская стрижка</h4>
+                        <p>Современные модели мужских стрижек для волос средней длины (длина волос на висках до 10 см). Выполняется ножницами.</p>
+                        <span class="price">35</span>
+                    </li>
+                    <li>
                         <h4>Детская стрижка</h4>
-                        <p>Та же стрижка, но только для детей от 6 до 12 лет.</p>
+                        <p>Современная стрижка для мальчиков от 6 до 12 лет, не удлиненная. Выполняется машинкой и ножницами.</p>
                         <span class="price">20</span>
+                    </li>
+                    <li>
+                        <h4>Бритье головы</h4>
+                        <p>Сухое бритье волос на голове “под ноль”. Выполняется машинкой и шейвером.</p>
+                        <span class="price">25</span>
+                    </li>
+                    <li>
+                        <h4>Бритье головы с распариванием</h4>
+                        <p>Влажное чистовое бритье головы с предварительным распариванием горячими полотенцами. Выполняется машинкой и бритвой-шаветт.</p>
+                        <span class="price">30</span>
                     </li>
                 </ul>
             </div>
@@ -533,14 +537,20 @@
             <div class="price_wrap">
                 <h3>Борода и бритье</h3>
                 <ul class="price_list">
-                    <!--<li>
-                        <h4>Бритье опаской</h4>
-                        <p>Попробуйте, это совсем не то же, что станком или электробритвой.</p>
-                        <span class="price">15</span>
-                    </li>-->
                     <li>
-                        <h4>Коррекция бороды</h4>
-                        <p>Подровнять, убрать лишнее, облагородить внешний вид.</p>
+                        <h4>Коррекция бороды и усов</h4>
+                        <p>Придание бороде формы, длины и объема,
+                            удаление лишней растительности на щеках и шее, окантовка и выравнивание линий бороды. Выполняется машинкой, ножницами и бритвой-шаветт.</p>
+                        <span class="price">30</span>
+                    </li>
+                    <li>
+                        <h4>Бритье бороды</h4>
+                        <p>Сухое чистовое бритье бороды и усов. Выполняется машинкой и шейвером.</p>
+                        <span class="price">20</span>
+                    </li>
+                    <li>
+                        <h4>Бритье бороды с распариванием</h4>
+                        <p>Влажное чистовое бритье бороды и усов с предварительным распариванием горячими полотенцами. Выполняется машинкой и бритвой-шаветт.</p>
                         <span class="price">25</span>
                     </li>
                 </ul>
@@ -551,23 +561,38 @@
                 <h3>Прочее</h3>
                 <ul class="price_list">
                     <li>
-                        <h4>Комплекс "Стрижка + Коррекция"</h4>
-                        <p>И волосы привести в порядок и бороду. Вместе дешевле!</p>
+                        <h4>Комплекс “Стрижка + Коррекция”</h4>
+                        <p>Мужская стрижка и коррекция бороды и усов.</p>
                         <span class="price">50</span>
                     </li>
                     <li>
-                        <h4>Тонировка седины или бороды</h4>
-                        <p>Если хочется побыть жгучим брюнетом. Ну или наоборот.</p>
+                        <h4>Комплекс “Друг + Друг”</h4>
+                        <p>Мужская стрижка для двух друзей. Возможно параллельное и последовательное оказание услуг.</p>
+                        <span class="price">50</span>
+                    </li>
+                    <li>
+                        <h4>Тонирование бороды и усов</h4>
+                        <p>Временное щадящее окрашивание усов и бороды (без осветления). </p>
+                        <span class="price">25</span>
+                    </li>
+                    <li>
+                        <h4>Тонирование головы</h4>
+                        <p>Временное щадящее окрашивание волос на голове (без осветления). </p>
                         <span class="price">25</span>
                     </li>
                     <li>
                         <h4>Укладка</h4>
-                        <p>Особое событие? Почему бы не выглядеть идеально?</p>
-                        <span class="price">10</span>
+                        <p>Создание объема, формы и текстуры прически (с предварительным мытьем головы).</p>
+                        <span class="price">15</span>
                     </li>
                     <li>
-                        <h4>Депиляция волос на лице</h4>
-                        <p>Удаление волос из носов и ушей разогретым воском.</p>
+                        <h4>Депиляция 1 зоны</h4>
+                        <p>Удаление волос на лице в одной из зон: на переносице, в носу, в ушах. Выполняется с использованием разогретого воска.</p>
+                        <span class="price">5</span>
+                    </li>
+                    <li>
+                        <h4>Депиляция 2 или 3 зон</h4>
+                        <p>Удаление волос на лице: на переносице, в носу, в ушах. Выполняется с использованием разогретого воска.</p>
                         <span class="price">8</span>
                     </li>
                 </ul>
