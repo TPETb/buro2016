@@ -341,6 +341,42 @@
         <ul class="team_members">
             <li class="col-md-4 col-xs-6">
                 <div class="team_member">
+                    <img src="/images/team-kremarenko.jpg" alt="Кремаренко Александр">
+                    <div class="overlay">
+                        <h3>Александо Кремаренко</h3>
+                    </div>
+                </div>
+                <div class="booking">
+                    <a href="#" data-url="https://w100412.yclients.com/?o=m1851058" class="default_btn ms_booking">Запись на Е.Полоцкой 5</a>
+                </div>
+            </li>
+            <li class="col-md-4 col-xs-6">
+                <div class="team_member">
+                    <img src="/images/team-seleznev.jpg" alt="Влад Селезнев">
+                    <div class="overlay">
+                        <h3>Влад Селезнев</h3>
+                    </div>
+                </div>
+                <div class="booking">
+                    <a href="#" data-url="https://w360661.yclients.com/?o=m1707447" class="default_btn ms_booking">Запись пр. Дзержинского 9</a>
+                </div>
+            </li>
+            <li class="col-md-4 col-xs-6">
+                <div class="team_member">
+                    <img src="/images/team-no-money.jpg" alt="Вадим Безденежных">
+                    <div class="overlay">
+                        <h3>Вадим Безденежных</h3>
+                    </div>
+                </div>
+                <div class="booking">
+                    <a href="#" data-url="https://w360661.yclients.com/?o=m1009635" class="default_btn ms_booking">Запись пр. Дзержинского 9</a>
+                </div>
+            </li>
+        </ul>
+
+        <ul class="team_members" style="clear:both;">
+            <li class="col-md-4 col-xs-6">
+                <div class="team_member">
                     <img src="/images/team-timoshin.jpg" alt="Александр Тимошек">
                     <div class="overlay">
                         <h3>Александр Тимошек</h3>
@@ -375,43 +411,7 @@
             </li>
         </ul>
 
-        <ul class="team_members" style="clear:both;">
-            <li class="col-md-4 col-xs-6">
-                <div class="team_member">
-                    <img src="/images/team-sinoshin.jpg" alt="Вадим Синошин">
-                    <div class="overlay">
-                        <h3>Вадим Синошин</h3>
-                    </div>
-                </div>
-                <div class="booking">
-                    <a href="#" data-url="https://w360661.yclients.com/?o=m1009658" class="default_btn ms_booking">Запись пр. Дзержинского 9</a>
-                </div>
-            </li>
-            <li class="col-md-4 col-xs-6">
-                <div class="team_member">
-                    <img src="/images/team-no-money.jpg" alt="Вадим Безденежных">
-                    <div class="overlay">
-                        <h3>Вадим Безденежных</h3>
-                    </div>
-                </div>
-                <div class="booking">
-                    <a href="#" data-url="https://w360661.yclients.com/?o=m1009635" class="default_btn ms_booking">Запись пр. Дзержинского 9</a>
-                </div>
-            </li>
-            <li class="col-md-4 col-xs-6">
-                <div class="team_member">
-                    <img src="/images/team-verenich.jpg" alt="Андрей Веренич">
-                    <div class="overlay">
-                        <h3>Андрей Веренич</h3>
-                    </div>
-                </div>
-                <div class="booking">
-                    <a href="#" data-url="https://w360661.yclients.com/?o=m1120625" class="default_btn ms_booking">Запись пр. Дзержинского 9</a>
-                </div>
-            </li>
-        </ul>
-
-        <ul class="team_members">
+        <ul class="team_members" style="clear: both;">
             <li class="col-md-4 col-xs-6">
                 <div class="team_member">
                     <img src="/images/team-savich.jpg" alt="Руслан Савич">
@@ -436,19 +436,30 @@
             </li>
             <li class="col-md-4 col-xs-6">
                 <div class="team_member">
-                    <img src="/images/team-zhurov.jpg" alt="Артур Журов">
+                    <img src="/images/team-sinoshin.jpg" alt="Вадим Синошин">
                     <div class="overlay">
-                        <h3>Артур Журов</h3>
+                        <h3>Вадим Синошин</h3>
                     </div>
                 </div>
                 <div class="booking">
-                    <a href="#" data-url="https://w100412.yclients.com/?o=m495988" class="default_btn ms_booking">Запись на Е.Полоцкой 5</a>
+                    <a href="#" data-url="https://w360661.yclients.com/?o=m1009658" class="default_btn ms_booking">Запись пр. Дзержинского 9</a>
                 </div>
             </li>
         </ul>
 
         <ul class="team_members">
+            <li class="col-md-2 col-xs-6">
+            </li>
             <li class="col-md-4 col-xs-6">
+                <div class="team_member">
+                    <img src="/images/team-verenich.jpg" alt="Андрей Веренич">
+                    <div class="overlay">
+                        <h3>Андрей Веренич</h3>
+                    </div>
+                </div>
+                <div class="booking">
+                    <a href="#" data-url="https://w360661.yclients.com/?o=m1120625" class="default_btn ms_booking">Запись пр. Дзержинского 9</a>
+                </div>
             </li>
             <li class="col-md-4 col-xs-6">
                 <div class="team_member">
@@ -461,7 +472,7 @@
                     <a href="#" data-url="https://w360661.yclients.com/?o=m1009627" class="default_btn ms_booking">Запись пр. Дзержинского 9</a>
                 </div>
             </li>
-            <li class="col-md-4 col-xs-6">
+            <li class="col-md-2 col-xs-6">
             </li>
         </ul>
     </div>
@@ -541,7 +552,7 @@
                         <h4>Коррекция бороды и усов</h4>
                         <p>Придание бороде формы, длины и объема,
                             удаление лишней растительности на щеках и шее, окантовка и выравнивание линий бороды. Выполняется машинкой, ножницами и бритвой-шаветт.</p>
-                        <span class="price">30</span>
+                        <span class="price">25</span>
                     </li>
                     <li>
                         <h4>Бритье бороды</h4>
