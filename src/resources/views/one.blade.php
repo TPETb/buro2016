@@ -64,26 +64,26 @@
 
 <section class="slider_section" style="position:relative; top: 90px; margin-bottom: 90px;">
     <ul id="main-slider" class="owl-carousel main_slider">
-        <li class="main_slide">
-            <div class="img-container" style="background-image: url(/imagecache/slide/slide-6.jpg);"></div>
-            <div class="container">
-                <div class="display-table">
-                    <div class="table-cell">
-                        <div class="slider_content">
-                            <span class="h3 text-white">Теперь и на пр. Дзержинского 9!</span>
-                            <span class="h1 text-white">
-                                Мы открыли новый филиал!</span>
-                            <p class="text-white">
-                                Большое помещение. Шесть барберских кресел. Ваши любимые мастера.<br>
-                                Проверьте, может вам ближе добираться сюда – <strong>пр. Дзержинского 9</strong>.</p>
-                            <div class="btn_group">
-                                <a href="#" class="default_btn ms_booking">Записаться</a>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </li>
+{{--        <li class="main_slide">--}}
+{{--            <div class="img-container" style="background-image: url(/imagecache/slide/slide-6.jpg);"></div>--}}
+{{--            <div class="container">--}}
+{{--                <div class="display-table">--}}
+{{--                    <div class="table-cell">--}}
+{{--                        <div class="slider_content">--}}
+{{--                            <span class="h3 text-white">Теперь и на пр. Дзержинского 9!</span>--}}
+{{--                            <span class="h1 text-white">--}}
+{{--                                Мы открыли новый филиал!</span>--}}
+{{--                            <p class="text-white">--}}
+{{--                                Большое помещение. Шесть барберских кресел. Ваши любимые мастера.<br>--}}
+{{--                                Проверьте, может вам ближе добираться сюда – <strong>пр. Дзержинского 9</strong>.</p>--}}
+{{--                            <div class="btn_group">--}}
+{{--                                <a href="#" class="default_btn ms_booking">Записаться</a>--}}
+{{--                            </div>--}}
+{{--                        </div>--}}
+{{--                    </div>--}}
+{{--                </div>--}}
+{{--            </div>--}}
+{{--        </li>--}}
         <li class="main_slide">
             <div class="img-container" style="background-image: url(/imagecache/slide/slide-1.jpg);"></div>
             <div class="container">
@@ -114,10 +114,10 @@
                         <div class="slider_content">
                             <span class="h3 text-white">Наши клиенты весьма довольны.</span>
                             <span class="h1 text-white">
-                                У нас <strong>4435</strong> отзывов <br>
+                                У нас <strong>6708</strong> отзывов <br>
                                 Средняя оценка - <strong>4.85</strong></span>
                             <p class="text-white">
-                                Данные на 24 июля 2021. Сейчас, когда вы это читаете, положительных отзывов еще больше! <br>
+                                Данные на 20 марта 2022. Сейчас, когда вы это читаете, положительных отзывов еще больше! <br>
                             </p>
                             <div class="btn_group">
                                 <a href="#testimonial" class="default_btn">Отзывы</a>
@@ -509,7 +509,8 @@
             <h2>Цены</h2>
             <p>
                 Мы верим, что сервис самого выского качества должен быть доступен каждому.<br>
-                Стрижка не должна стоить в Минске 40, 50 или 60 рублей!</p>
+{{--                Стрижка не должна стоить в Минске 40, 50 или 60 рублей!--}}
+            </p>
         </div>
 
         <div class="col-sm-4 xs-padding">
@@ -519,27 +520,27 @@
                     <li>
                         <h4>Мужская стрижка</h4>
                         <p>Современные модели мужских стрижек для коротких волос и волос средней длины (до 10 см). Виски и затылок - под машинку, верх  - под машинку или ножницами.</p>
-                        <span class="price">30</span>
+                        <span class="price">35</span>
                     </li>
                     <li>
                         <h4>Удлиненная мужская стрижка</h4>
                         <p>Современные модели мужских стрижек для волос средней длины (длина волос на висках до 10 см). Выполняется ножницами.</p>
-                        <span class="price">35</span>
+                        <span class="price">40</span>
                     </li>
                     <li>
                         <h4>Детская стрижка</h4>
                         <p>Современная стрижка для мальчиков от 6 до 12 лет, не удлиненная. Выполняется машинкой и ножницами.</p>
-                        <span class="price">20</span>
+                        <span class="price">25</span>
                     </li>
                     <li>
                         <h4>Бритье головы</h4>
                         <p>Сухое бритье волос на голове “под ноль”. Выполняется машинкой и шейвером.</p>
-                        <span class="price">25</span>
+                        <span class="price">30</span>
                     </li>
                     <li>
                         <h4>Бритье головы с распариванием</h4>
                         <p>Влажное чистовое бритье головы с предварительным распариванием горячими полотенцами. Выполняется машинкой и бритвой-шаветт.</p>
-                        <span class="price">30</span>
+                        <span class="price">35</span>
                     </li>
                 </ul>
             </div>
@@ -552,17 +553,17 @@
                         <h4>Коррекция бороды и усов</h4>
                         <p>Придание бороде формы, длины и объема,
                             удаление лишней растительности на щеках и шее, окантовка и выравнивание линий бороды. Выполняется машинкой, ножницами и бритвой-шаветт.</p>
-                        <span class="price">25</span>
+                        <span class="price">30</span>
                     </li>
                     <li>
                         <h4>Бритье бороды</h4>
                         <p>Сухое чистовое бритье бороды и усов. Выполняется машинкой и шейвером.</p>
-                        <span class="price">20</span>
+                        <span class="price">25</span>
                     </li>
                     <li>
                         <h4>Бритье бороды с распариванием</h4>
                         <p>Влажное чистовое бритье бороды и усов с предварительным распариванием горячими полотенцами. Выполняется машинкой и бритвой-шаветт.</p>
-                        <span class="price">25</span>
+                        <span class="price">30</span>
                     </li>
                 </ul>
             </div>
@@ -574,22 +575,22 @@
                     <li>
                         <h4>Комплекс “Стрижка + Коррекция”</h4>
                         <p>Мужская стрижка и коррекция бороды и усов.</p>
-                        <span class="price">50</span>
+                        <span class="price">60</span>
                     </li>
                     <li>
                         <h4>Комплекс “Друг + Друг”</h4>
                         <p>Мужская стрижка для двух друзей. Возможно параллельное и последовательное оказание услуг.</p>
-                        <span class="price">50</span>
+                        <span class="price">60</span>
                     </li>
                     <li>
                         <h4>Тонирование бороды и усов</h4>
                         <p>Временное щадящее окрашивание усов и бороды (без осветления). </p>
-                        <span class="price">25</span>
+                        <span class="price">30</span>
                     </li>
                     <li>
                         <h4>Тонирование головы</h4>
                         <p>Временное щадящее окрашивание волос на голове (без осветления). </p>
-                        <span class="price">25</span>
+                        <span class="price">30</span>
                     </li>
                     <li>
                         <h4>Укладка</h4>
