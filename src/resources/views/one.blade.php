@@ -341,65 +341,6 @@
         <ul class="team_members">
             <li class="col-md-4 col-xs-6">
                 <div class="team_member">
-                    <img src="/images/team-kremarenko.jpg" alt="Кремаренко Александр">
-                    <div class="overlay">
-                        <h3>Александо Кремаренко</h3>
-                    </div>
-                </div>
-                <div class="booking">
-                    <a href="#" data-url="https://w100412.yclients.com/?o=m1851058" class="default_btn ms_booking">Запись на Е.Полоцкой 5</a>
-                </div>
-            </li>
-            <li class="col-md-4 col-xs-6">
-                <div class="team_member">
-                    <img src="/images/team-seleznev.jpg" alt="Влад Селезнев">
-                    <div class="overlay">
-                        <h3>Влад Селезнев</h3>
-                    </div>
-                </div>
-                <div class="booking">
-                    <a href="#" data-url="https://w360661.yclients.com/?o=m1707447" class="default_btn ms_booking">Запись пр. Дзержинского 9</a>
-                </div>
-            </li>
-            <li class="col-md-4 col-xs-6">
-                <div class="team_member">
-                    <img src="/images/team-no-money.jpg" alt="Вадим Безденежных">
-                    <div class="overlay">
-                        <h3>Вадим Безденежных</h3>
-                    </div>
-                </div>
-                <div class="booking">
-                    <a href="#" data-url="https://w360661.yclients.com/?o=m1009635" class="default_btn ms_booking">Запись пр. Дзержинского 9</a>
-                </div>
-            </li>
-        </ul>
-
-        <ul class="team_members" style="clear:both;">
-            <li class="col-md-4 col-xs-6">
-                <div class="team_member">
-                    <img src="/images/team-timoshin.jpg" alt="Александр Тимошек">
-                    <div class="overlay">
-                        <h3>Александр Тимошек</h3>
-                    </div>
-                </div>
-                <div class="booking">
-                    <a href="#" data-url="https://w360661.yclients.com/?o=m1009716" class="default_btn ms_booking">Запись пр. Дзержинского 9</a>
-                </div>
-            </li>
-            <li class="col-md-4 col-xs-6">
-                <div class="team_member">
-                    <img src="/images/team-rogatko.jpg" alt="Николай Рогатко">
-                    <div class="overlay">
-                        <h3>Николай Рогатко</h3>
-                    </div>
-                </div>
-                <div class="booking">
-                    <a href="#" data-url="https://w100412.yclients.com/?o=m1413990" class="default_btn ms_booking">Запись на Е.Полоцкой 5</a>
-                    <a href="#" data-url="https://w360661.yclients.com/?o=m1094134" class="default_btn ms_booking">Запись пр. Дзержинского 9</a>
-                </div>
-            </li>
-            <li class="col-md-4 col-xs-6">
-                <div class="team_member">
                     <img src="/images/team-badya.jpg" alt="Дмитрий Бадыгин">
                     <div class="overlay">
                         <h3>Дмитрий Бадыгин</h3>
@@ -409,9 +350,6 @@
                     <a href="#" data-url="https://w100412.yclients.com/?o=m528752" class="default_btn ms_booking">Запись на Е.Полоцкой 5</a>
                 </div>
             </li>
-        </ul>
-
-        <ul class="team_members" style="clear: both;">
             <li class="col-md-4 col-xs-6">
                 <div class="team_member">
                     <img src="/images/team-savich.jpg" alt="Руслан Савич">
@@ -434,33 +372,36 @@
                     <a href="#" data-url="https://w100412.yclients.com/?o=m259178" class="default_btn ms_booking">Запись на Е.Полоцкой 5</a>
                 </div>
             </li>
+        </ul>
+
+        <ul class="team_members" style="clear: both;">
+            <li class="col-md-2 col-xs-6">
+            </li>
             <li class="col-md-4 col-xs-6">
                 <div class="team_member">
-                    <img src="/images/team-sinoshin.jpg" alt="Вадим Синошин">
+                    <img src="/images/team-nester.jpg" alt="Егор Нестер">
                     <div class="overlay">
-                        <h3>Вадим Синошин</h3>
+                        <h3>Егор Нестер</h3>
                     </div>
                 </div>
                 <div class="booking">
-                    <a href="#" data-url="https://w360661.yclients.com/?o=m1009658" class="default_btn ms_booking">Запись пр. Дзержинского 9</a>
+                    <a href="#" data-url="https://w100412.yclients.com/?o=m2238252" class="default_btn ms_booking">Запись на Е.Полоцкой 5</a>
+                </div>
+            </li>
+            <li class="col-md-4 col-xs-6">
+                <div class="team_member">
+                    <img src="/images/team-antonin.jpg" alt="Кирилл Антонин">
+                    <div class="overlay">
+                        <h3>Кирилл Антонин</h3>
+                    </div>
+                </div>
+                <div class="booking">
+                    <a href="#" data-url="https://w100412.yclients.com/?o=m2053734" class="default_btn ms_booking">Запись на Е.Полоцкой 5</a>
                 </div>
             </li>
         </ul>
 
         <ul class="team_members">
-            <li class="col-md-2 col-xs-6">
-            </li>
-            <li class="col-md-4 col-xs-6">
-                <div class="team_member">
-                    <img src="/images/team-verenich.jpg" alt="Андрей Веренич">
-                    <div class="overlay">
-                        <h3>Андрей Веренич</h3>
-                    </div>
-                </div>
-                <div class="booking">
-                    <a href="#" data-url="https://w360661.yclients.com/?o=m1120625" class="default_btn ms_booking">Запись пр. Дзержинского 9</a>
-                </div>
-            </li>
             <li class="col-md-4 col-xs-6">
                 <div class="team_member">
                     <img src="/images/team-rozhkins.jpg" alt="Алексей Рожкинс">
@@ -472,7 +413,60 @@
                     <a href="#" data-url="https://w360661.yclients.com/?o=m1009627" class="default_btn ms_booking">Запись пр. Дзержинского 9</a>
                 </div>
             </li>
-            <li class="col-md-2 col-xs-6">
+            <li class="col-md-4 col-xs-6">
+                <div class="team_member">
+                    <img src="/images/team-moiseychik.jpg" alt="Сергей Мойсейчик">
+                    <div class="overlay">
+                        <h3>Сергей Мойсейчик</h3>
+                    </div>
+                </div>
+                <div class="booking">
+                    <a href="#" data-url="https://w360661.yclients.com/?o=m2049838" class="default_btn ms_booking">Запись пр. Дзержинского 9</a>
+                </div>
+            </li>
+            <li class="col-md-4 col-xs-6">
+                <div class="team_member">
+                    <img src="/images/team-rogatko.jpg" alt="Николай Рогатко">
+                    <div class="overlay">
+                        <h3>Николай Рогатко</h3>
+                    </div>
+                </div>
+                <div class="booking">
+                    <a href="#" data-url="https://w360661.yclients.com/?o=m1094134" class="default_btn ms_booking">Запись пр. Дзержинского 9</a>
+                </div>
+            </li>
+            <li class="col-md-4 col-xs-6">
+                <div class="team_member">
+                    <img src="/images/team-sinoshin.jpg" alt="Вадим Синошин">
+                    <div class="overlay">
+                        <h3>Вадим Синошин</h3>
+                    </div>
+                </div>
+                <div class="booking">
+                    <a href="#" data-url="https://w360661.yclients.com/?o=m1009658" class="default_btn ms_booking">Запись пр. Дзержинского 9</a>
+                </div>
+            </li>
+            <li class="col-md-4 col-xs-6">
+                <div class="team_member">
+                    <img src="/images/team-seleznev.jpg" alt="Влад Селезнев">
+                    <div class="overlay">
+                        <h3>Влад Селезнев</h3>
+                    </div>
+                </div>
+                <div class="booking">
+                    <a href="#" data-url="https://w360661.yclients.com/?o=m1707447" class="default_btn ms_booking">Запись пр. Дзержинского 9</a>
+                </div>
+            </li>
+            <li class="col-md-4 col-xs-6">
+                <div class="team_member">
+                    <img src="/images/team-shevchenko.jpg" alt="Анастасия Шевченко">
+                    <div class="overlay">
+                        <h3>Анастасия Шевченко</h3>
+                    </div>
+                </div>
+                <div class="booking">
+                    <a href="#" data-url="https://w360661.yclients.com/?o=m2221797" class="default_btn ms_booking">Запись пр. Дзержинского 9</a>
+                </div>
             </li>
         </ul>
     </div>
